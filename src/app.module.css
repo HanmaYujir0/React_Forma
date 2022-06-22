@@ -32,3 +32,26 @@
 form {
   width: 100%;
 }
+.message_cont {
+  flex-wrap: wrap;
+  display: flex;
+  margin-top: 15px;
+}
+.cont{
+  display: flex;
+  background-color: rgb(112, 195, 233) ;
+  border-radius: 10px;
+  margin-left: 15px;
+  margin-top: 15px;
+  width: auto;
+}
+.message_text {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 5px;
+}
+.message_remove {
+  background-color: transparent;
+  border: none;
+  margin-left: 10px;
+}
